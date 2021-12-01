@@ -11,12 +11,6 @@
  </p>  
  
 ## 🔧 Technologies & 📖 Languages
-<div align="left">
-  <img src="https://img.shields.io/badge/Rust-CC342D?style=for-the-badge&logo=rust&logoColor=white">
-  <img src="https://img.shields.io/badge/Anchor-F7DF1E?style=for-the-badge&logoColor=black">
-  <img src="https://img.shields.io/badge/Solidity-9E9E9E?style=for-the-badge&logo=solidity&logoColor=black">
-  <img src="https://img.shields.io/badge/Web3-007ACC?style=for-the-badge&logoColor=white">
-<div/>
 
 <p align="left">
     <a href="https://solana.com/" target="_blank" rel="noreferrer"> <img
