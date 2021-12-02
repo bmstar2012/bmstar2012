@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a full stack blockchain developer.</h1>
+<h1 align="center">Hi 👋, I'm a full stack blockchain & web developer.</h1>
 
 <p>
   <a href="https://github.com/bmstar2012/" >
