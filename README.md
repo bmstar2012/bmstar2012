@@ -107,11 +107,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
          alt="vuejs" width="40" height="40"/> </a></p>
 
-## AWARDS  
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=bmstar2012)](https://github.com/bmstar2012/bmstar2012)  
-
-### DeFi Experiences
+## DeFi Experiences
 - NFT Mint Dapps
 <table>
     <thead align="center">
@@ -161,5 +157,9 @@
         </td>   
     </tr>  
 </table>
+
+## AWARDS  
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=bmstar2012)](https://github.com/bmstar2012/bmstar2012)  
 
   
