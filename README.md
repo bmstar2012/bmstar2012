@@ -145,8 +145,7 @@
 <thead align="center">
         <tr>
             <td>Funkiverse</td>
-            <td>DDEXX INFO</td>
-            <td>MaticSwap</td>  
+            <td>CosmicSwap</td>
         </tr>
     </thead>
     <tr>
@@ -160,8 +159,6 @@
                 <img src="https://github.com/bmstar2012/images/blob/main/cosmicswap.png" width="200">
             </a>
         </td>   
-        <td>
-        </td> 
     </tr>  
 </table>
 
