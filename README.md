@@ -119,17 +119,17 @@
     </thead>
     <tr>
         <td>
-            <a href="https://github.com/bmstar2012/CryptoPigs">
+            <a href="https://github.com/bmstar2012/CryptoPigs" target="_blank">
                 <img src="https://github.com/bmstar2012/images/blob/main/cryptopigs_1.png" width="200">
             </a>
         </td>
         <td>
-            <a href="https://github.com/bmstar2012/GostFace">
+            <a href="https://github.com/bmstar2012/GostFace" target="_blank">
                 <img src="https://github.com/bmstar2012/images/blob/main/gost_1.png" width="200">
             </a>
         </td> 
         <td>
-            <a href="https://funkifoxes.com/">
+            <a href="https://funkifoxes.com/" target="_blank">
                 <img src="https://github.com/bmstar2012/images/blob/main/FunkiFoxes.png" width="200">
             </a>
         </td>
@@ -146,12 +146,12 @@
     </thead>
     <tr>
         <td>
-            <a href="https://github.com/bmstar2012/Funkiverse">
+            <a href="https://github.com/bmstar2012/Funkiverse" target="_blank">
                 <img src="https://github.com/bmstar2012/images/blob/main/funkiverse_1.png" width="200">
             </a>
         </td>          
         <td>
-            <a href="https://app.cosmicswap.finance/">
+            <a href="https://app.cosmicswap.finance/" target="_blank">
                 <img src="https://github.com/bmstar2012/images/blob/main/cosmicswap.png" width="200">
             </a>
         </td>   
@@ -170,22 +170,22 @@
     </thead>
     <tr>
         <td>
-            <a href="https://sellersket-price.com/">
+            <a href="https://sellersket-price.com/" target="_blank">
                 <img src="https://github.com/bmstar2012/images/blob/main/SellerSketPrice.png" width="200">
             </a>
         </td>      
         <td>
-            <a href="https://sellersket.com/">
+            <a href="https://sellersket.com/" target="_blank">
                 <img src="https://github.com/bmstar2012/images/blob/main/SellerSket.png" width="200">
             </a>
         </td>   
         <td>
-            <a href="https://learnbiz.jp">
+            <a href="https://learnbiz.jp" target="_blank">
                 <img src="https://github.com/bmstar2012/images/blob/main/LearnBiz.png" width="200">
             </a>
         </td>   
         <td>
-            <a href="https://www.m-piece.com/">
+            <a href="https://www.m-piece.com/" target="_blank">
                 <img src="https://github.com/bmstar2012/images/blob/main/BPO.png" width="200">
             </a>
         </td> 
