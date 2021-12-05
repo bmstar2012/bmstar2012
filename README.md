@@ -176,7 +176,7 @@
         </td>      
         <td>
             <a href="https://sellersket.com/" target="_blank">
-                <img src="https://github.com/bmstar2012/images/blob/main/SellerSket.png" width="200">
+                <img src="https://github.com/bmstar2012/images/blob/main/SellerSket_.png" width="200">
             </a>
         </td>   
         <td>
