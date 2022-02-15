@@ -1,18 +1,4 @@
 <h1 align="center">Hi 👋, I'm a full stack blockchain & web developer.</h1>
-
-### **_Contact Details_**
-<p align='center'>
-<a href="https://t.me/bmstar2012" target="_blank">
-  <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/louis-go-a94690227/"  target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="mailto:bmstar2012@gmail.com">
-  <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;&nbsp;
-</p>
-
 <p>
   <a href="https://github.com/bmstar2012/" >
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=bmstar2012&hide=java,html,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
