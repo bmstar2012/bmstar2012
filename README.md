@@ -159,36 +159,6 @@
 
 - Bussiness System
 <table>
-<thead align="center">
-        <tr>
-            <td>SellerSket価格改定</td>
-            <td>SellerSket</td>
-            <td>ラーンビズ</td>
-            <td>有人監視システム</td>
-        </tr>
-    </thead>
-    <tr>
-        <td>
-            <a href="https://sellersket-price.com/" target="_blank">
-                <img src="https://github.com/bmstar2012/images/blob/main/SellerSketPrice.png" width="200">
-            </a>
-        </td>      
-        <td>
-            <a href="https://sellersket.com/" target="_blank">
-                <img src="https://github.com/bmstar2012/images/blob/main/SellerSket_.png" width="200">
-            </a>
-        </td>   
-        <td>
-            <a href="https://learnbiz.jp" target="_blank">
-                <img src="https://github.com/bmstar2012/images/blob/main/LearnBiz.png" width="200">
-            </a>
-        </td>   
-        <td>
-            <a href="https://www.m-piece.com/" target="_blank">
-                <img src="https://github.com/bmstar2012/images/blob/main/BPO.png" width="200">
-            </a>
-        </td> 
-    </tr>  
       <thead align="center">
         <tr>
             <td>Construction Business</td>
